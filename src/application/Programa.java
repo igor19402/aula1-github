@@ -3,9 +3,9 @@ package application;
 public class Programa {
 
 	public static void main(String[] args) {
-		System.out.print("bom dia!");
-		System.out.print("bom tarde!");
-		System.out.print("bom noite!");
+		System.out.println("bom dia!");
+		System.out.println("bom tarde!");
+		System.out.println("boa noite!");
 	}
 
 }
