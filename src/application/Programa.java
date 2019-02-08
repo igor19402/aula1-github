@@ -3,9 +3,10 @@ package application;
 public class Programa {
 
 	public static void main(String[] args) {
-		System.out.println("bom dia!");
-		System.out.println("bom tarde!");
-		System.out.println("boa noite!");
+		int count;
+		for(count=1;count<=10;count++) {
+			System.out.printf("olá mundo!\n");
+		}
 	}
 
 }
